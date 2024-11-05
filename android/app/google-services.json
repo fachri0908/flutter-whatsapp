@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029960749029",
+    "project_id": "chat-app-eedd9",
+    "storage_bucket": "chat-app-eedd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029960749029:android:58915ea58ba41fcf8ea90c",
+        "android_client_info": {
+          "package_name": "com.dajoe.whatsapp_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ2JvQXj4treYuMw-Nry5XjRYQCO-Fjgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
